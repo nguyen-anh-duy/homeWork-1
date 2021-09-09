@@ -40,7 +40,7 @@ function groupGiongNhau(){
 }
 groupGiongNhau();
 
-
+gjhgj
 
 // bai 4
 var nums = [2,2,1]
